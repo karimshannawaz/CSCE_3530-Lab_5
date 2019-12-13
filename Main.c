@@ -1,7 +1,5 @@
 
 /**
-	Karimshan Nawaz
-	11305835
 	Lab 5 CSCE 3530
 	Demonstration of Dijkstra’s Shortest Path Algorithm
 	Supports up to six routers.
